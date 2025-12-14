@@ -1,4 +1,4 @@
-# piwatch
+# NanoWatch
 A microcontroller powered watch with wifi, bluetooth, calculators and other communication methods while conserving power.
 
 The watch is basically a small self-contained computer strapped to your wrist.
