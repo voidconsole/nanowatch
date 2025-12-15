@@ -1,11 +1,11 @@
-Name,Description,Amount,Link
-Arduino Nano 33 BLE Rev 2,"Best due to its size, power and BLE support",1,https://www.amazon.in/gp/product/B0FF9GGXWD/ref=ox_sc_act_title_7?smid=AJ6SIZC8YQDZX&psc=1
-TM1637 4 Bit Display,Enough for clock + basic features while consuming low power,1,https://www.amazon.in/gp/product/B07ZFX458H/ref=ox_sc_act_title_1?smid=A2FGC2POOS3TS8&psc=1
-Switch Array,For controlling input and processing data,1,https://www.amazon.in/gp/product/B0FBLF4WD6/ref=ox_sc_act_title_6?smid=A1P9ZW4IHIOLEJ&psc=1
-Small Nd magnets,For magnetic modularity,1 (100pcs),https://www.amazon.in/gp/product/B075PMRBWJ/ref=ox_sc_act_title_8?smid=AP7MBNLZTN3FQ&psc=1
-Artificial Leather,For strapping and covering the watch,70cm^2,https://www.amazon.in/gp/product/B09DCP41JD/ref=ox_sc_act_title_5?smid=A2ZGAXPBI2YBYH&psc=1
-Plexiglass,For mounting and containing the circuits,1,https://www.amazon.in/gp/product/B097JQLNRW/ref=ox_sc_act_title_1?smid=A1YQOYZBR78PZF&psc=1
-Lithium Polymer Batteries,For power and space efficiency,2,https://www.amazon.in/gp/product/B0CYQ6H8FW/ref=ox_sc_act_title_3?smid=A2MVLA5NURHGBS&psc=1
-TP4096 Charger module,For charging,1,https://www.amazon.in/gp/product/B082YVLP35/ref=ox_sc_act_title_4?smid=A1NLDJ5ZLJKKSQ&psc=1
-AMS1117 Voltage Regulator,For providing stable voltage to Nano,1,https://www.amazon.in/gp/product/B09NKV8BFY/ref=ox_sc_act_title_2?smid=A394MJGYEIL46Y&psc=1
-Total,,,
+Name,Description,Amount,Link,Cost,Cost $
+Arduino Nano 33 BLE Rev 2,Best due to its size power and BLE support,1,[https://www.amazon.in/gp/product/B0FF9GGXWD/ref=ox_sc_act_title_7?smid=AJ6SIZC8YQDZX&psc=1,"₹2,119.00","$23.52](https://www.amazon.in/gp/product/B0FF9GGXWD/ref=ox_sc_act_title_7?smid=AJ6SIZC8YQDZX&psc=1,%22₹2,119.00%22,%22$23.52)"
+TM1637 4 Bit Display,Enough for clock plus basic features while consuming low power,1,[https://www.amazon.in/gp/product/B07ZFX458H/ref=ox_sc_act_title_1?smid=A2FGC2POOS3TS8&psc=1,"₹98.00","$1.09](https://www.amazon.in/gp/product/B07ZFX458H/ref=ox_sc_act_title_1?smid=A2FGC2POOS3TS8&psc=1,%22₹98.00%22,%22$1.09)"
+Switch Array,For controlling input and processing data,1,[https://www.amazon.in/gp/product/B0FBLF4WD6/ref=ox_sc_act_title_6?smid=A1P9ZW4IHIOLEJ&psc=1,"₹225.00","$2.50](https://www.amazon.in/gp/product/B0FBLF4WD6/ref=ox_sc_act_title_6?smid=A1P9ZW4IHIOLEJ&psc=1,%22₹225.00%22,%22$2.50)"
+Small Nd magnets,For magnetic modularity,"1 (100 pcs)",[https://www.amazon.in/gp/product/B075PMRBWJ/ref=ox_sc_act_title_8?smid=AP7MBNLZTN3FQ&psc=1,"₹275.00","$3.05](https://www.amazon.in/gp/product/B075PMRBWJ/ref=ox_sc_act_title_8?smid=AP7MBNLZTN3FQ&psc=1,%22₹275.00%22,%22$3.05)"
+Artificial Leather,For strapping and covering the watch,"70 cm^2",[https://www.amazon.in/gp/product/B09DCP41JD/ref=ox_sc_act_title_5?smid=A2ZGAXPBI2YBYH&psc=1,"₹199.00","$2.21](https://www.amazon.in/gp/product/B09DCP41JD/ref=ox_sc_act_title_5?smid=A2ZGAXPBI2YBYH&psc=1,%22₹199.00%22,%22$2.21)"
+Plexiglass,For mounting and containing the circuits,1,[https://www.amazon.in/gp/product/B097JQLNRW/ref=ox_sc_act_title_1?smid=A1YQOYZBR78PZF&psc=1,"₹299.00","$3.32](https://www.amazon.in/gp/product/B097JQLNRW/ref=ox_sc_act_title_1?smid=A1YQOYZBR78PZF&psc=1,%22₹299.00%22,%22$3.32)"
+Lithium Polymer Batteries,For power and space efficiency,2,[https://www.amazon.in/gp/product/B0CYQ6H8FW/ref=ox_sc_act_title_3?smid=A2MVLA5NURHGBS&psc=1,"₹302.00","$3.35](https://www.amazon.in/gp/product/B0CYQ6H8FW/ref=ox_sc_act_title_3?smid=A2MVLA5NURHGBS&psc=1,%22₹302.00%22,%22$3.35)"
+TP4056 Charger Module,For charging,1,[https://www.amazon.in/gp/product/B082YVLP35/ref=ox_sc_act_title_4?smid=A1NLDJ5ZLJKKSQ&psc=1,"₹99.00","$1.10](https://www.amazon.in/gp/product/B082YVLP35/ref=ox_sc_act_title_4?smid=A1NLDJ5ZLJKKSQ&psc=1,%22₹99.00%22,%22$1.10)"
+AMS1117 Voltage Regulator,For providing stable voltage to Nano,1,[https://www.amazon.in/gp/product/B09NKV8BFY/ref=ox_sc_act_title_2?smid=A394MJGYEIL46Y&psc=1,"₹135.00","$1.50](https://www.amazon.in/gp/product/B09NKV8BFY/ref=ox_sc_act_title_2?smid=A394MJGYEIL46Y&psc=1,%22₹135.00%22,%22$1.50)"
+TOTAL,,,,"₹4,082.00","$45.36"
