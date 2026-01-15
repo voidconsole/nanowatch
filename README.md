@@ -1,6 +1,8 @@
 # NanoWatch
 A microcontroller powered watch with wifi, bluetooth, calculators and other communication methods while conserving power.
+
 ![image](https://github.com/user-attachments/assets/387494ab-b98e-4f41-b48d-098ae847ba7d)
+(Random image for ref, of course, mine will look much different)
 
 The watch is basically a small self-contained computer strapped to your wrist.
 
@@ -67,4 +69,7 @@ In operation, the flow is simple:
 * BLE stays idle unless needed
 * Arduino enters low-power sleep whenever possible
 
-<img width="740" height="520" alt="circuit" src="https://github.com/user-attachments/assets/9ca26a27-119b-4bdb-90ad-8ef8320cf5ab" />
+
+
+<img width="638" height="460" alt="schema" src="https://github.com/user-attachments/assets/1a20328f-e82d-4d3a-91f2-00975d749b08" />
+
