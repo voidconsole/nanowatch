@@ -1,8 +1,8 @@
 # NanoWatch
 A microcontroller powered watch with wifi, bluetooth, calculators and other communication methods while conserving power.
 
-![image](https://github.com/user-attachments/assets/387494ab-b98e-4f41-b48d-098ae847ba7d)
-(Random image for ref, of course, mine will look much different)
+<img width="1904" height="950" alt="Screenshot" src="https://github.com/user-attachments/assets/1bc45b9b-f541-4c68-b7aa-ab2b06d1f102" />
+
 
 The watch is basically a small self-contained computer strapped to your wrist.
 
@@ -47,6 +47,7 @@ Physically, everything is mounted on or between **plexiglass layers**, which act
 * protection for components
 
 The plexiglass sandwich holds the PCB, battery, and modules tightly in place.
+<img width="638" height="460" alt="schema" src="https://github.com/user-attachments/assets/1a20328f-e82d-4d3a-91f2-00975d749b08" />
 
 The whole assembly is wrapped or backed with **artificial leather**, which:
 
@@ -71,5 +72,6 @@ In operation, the flow is simple:
 
 
 
-<img width="638" height="460" alt="schema" src="https://github.com/user-attachments/assets/1a20328f-e82d-4d3a-91f2-00975d749b08" />
 
+![image](https://github.com/user-attachments/assets/387494ab-b98e-4f41-b48d-098ae847ba7d)
+(Random image for ref, of course, mine will look much different)
