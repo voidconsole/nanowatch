@@ -1,7 +1,10 @@
+<img width="1584" height="396" alt="LinkedIn cover - 5" src="https://github.com/user-attachments/assets/bb28025e-d9e1-4ecc-a2a1-abcfd9d51263" />
+
+
+
 # NanoWatch
 A microcontroller powered watch with wifi, bluetooth, calculators and other communication methods while conserving power.
 
-<img width="1920" height="1080" alt="0000" src="https://github.com/user-attachments/assets/26369f7a-f706-4d2b-a5d7-781c1b640db6" />
 
 The watch is basically a small self-contained computer strapped to your wrist.
 
@@ -19,9 +22,6 @@ That regulated power line is shared by:
 * the Arduino Nano
 * the TM1637 display
 * the switch array
-
-
-<img width="638" height="460" alt="schema" src="https://github.com/user-attachments/assets/1a20328f-e82d-4d3a-91f2-00975d749b08" />
 
 
 The **TM1637 4-digit display** is the watch’s face. It connects to the Arduino using just two data pins. The Arduino sends it numbers to show:
@@ -78,7 +78,4 @@ In operation, the flow is simple:
 * Arduino enters low-power sleep whenever possible
 
 
-
-
-![image](https://github.com/user-attachments/assets/387494ab-b98e-4f41-b48d-098ae847ba7d)
-(Random image for ref, of course, mine will look much different)
+<img width="638" height="460" alt="schema" src="https://github.com/user-attachments/assets/1a20328f-e82d-4d3a-91f2-00975d749b08" />
