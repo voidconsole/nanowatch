@@ -1,8 +1,7 @@
 # NanoWatch
 A microcontroller powered watch with wifi, bluetooth, calculators and other communication methods while conserving power.
 
-<img width="1904" height="950" alt="Screenshot" src="https://github.com/user-attachments/assets/1bc45b9b-f541-4c68-b7aa-ab2b06d1f102" />
-
+<img width="1920" height="1080" alt="0000" src="https://github.com/user-attachments/assets/26369f7a-f706-4d2b-a5d7-781c1b640db6" />
 
 The watch is basically a small self-contained computer strapped to your wrist.
 
@@ -20,6 +19,10 @@ That regulated power line is shared by:
 * the Arduino Nano
 * the TM1637 display
 * the switch array
+
+
+<img width="638" height="460" alt="schema" src="https://github.com/user-attachments/assets/1a20328f-e82d-4d3a-91f2-00975d749b08" />
+
 
 The **TM1637 4-digit display** is the watch’s face. It connects to the Arduino using just two data pins. The Arduino sends it numbers to show:
 
@@ -47,9 +50,13 @@ Physically, everything is mounted on or between **plexiglass layers**, which act
 * protection for components
 
 The plexiglass sandwich holds the PCB, battery, and modules tightly in place.
-<img width="638" height="460" alt="schema" src="https://github.com/user-attachments/assets/1a20328f-e82d-4d3a-91f2-00975d749b08" />
 
-The whole assembly is wrapped or backed with **artificial leather**, which:
+
+
+https://github.com/user-attachments/assets/9a22fa63-88e6-42b2-8494-47285df3df49
+
+
+The whole assembly is wrapped or backed with artificial leather, which:
 
 * makes it wearable
 * hides the electronics
