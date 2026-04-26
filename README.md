@@ -115,6 +115,6 @@ I really wanted to explore wearable electronics and low energy devices, plus I r
 |Plexiglass|For mounting and containing the circuits|1|https://www.amazon.in/gp/product/B097JQLNRW/ref=ox_sc_act_title_1?smid=A1YQOYZBR78PZF&psc=1|₹299.00|$3.29|
 |Lithium Polymer Batteries|For power and space efficiency|2|https://www.amazon.in/gp/product/B0CYQ6H8FW/ref=ox_sc_act_title_3?smid=A2MVLA5NURHGBS&psc=1|₹302.00|$3.32|
 |Voltage Regulator|For providing stable voltage to Nano|1|https://robu.in/product/dc-dc-1-8v-5v-to-3-3v-boost-and-buck-power-module/?gad_source=1&gad_campaignid=17416544847&gbraid=0AAAAADvLFWcO_xeiUoTKrfT0WPjsJeLrH&gclid=CjwKCAiAu67KBhAkEiwAY0jAlV1EwRc7QIY71OZ8BFnK6DXi7Ab7a9E5U0J6SR_FGI4e0hnhRyVwrhoC6D0QAvD_BwE|₹51.00|$0.56|
-|Arduino Nano 33 BLE Rev 2|"Best due to its size| power and BLE support"|1|https://www.amazon.in/gp/product/B0FF9GGXWD/ref=ox_sc_act_title_7?smid=AJ6SIZC8YQDZX&psc=1|"₹2|119.00"|$23.31|
-|Total||||"₹3|436.00"|$37.80
+|Arduino Nano 33 BLE Rev 2|Best due to its size, power and BLE support|1|https://www.amazon.in/gp/product/B0FF9GGXWD/ref=ox_sc_act_title_7?smid=AJ6SIZC8YQDZX&psc=1|₹2119.00|$23.31|
+|Total||||₹3436.00|$37.80
 
