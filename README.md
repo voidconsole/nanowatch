@@ -79,3 +79,18 @@ In operation, the flow is simple:
 
 
 <img width="638" height="460" alt="schema" src="https://github.com/user-attachments/assets/1a20328f-e82d-4d3a-91f2-00975d749b08" />
+
+
+|Name|Description|Amount|Link|Cost|Cost $|
+|-|-|-|-|-|-|
+|TM1637 4 Bit Display|Enough for clock + basic features while consuming low power|1|https://robocraze.com/products/tm1637-4-digit-7-segment-led-display?variant=40192593658009&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=22271813913&adgroupid=&keyword=&device=c&gad_source=1&gad_campaignid=22271815110&gbraid=0AAAAADgHQvbn5UsfGL3ZZmw_JxklkOa43&gclid=CjwKCAiAu67KBhAkEiwAY0jAlVUw7iF6btRjvq3Xzyjr0TOxG5N4bdAQ0jhS0TG7J5-CXC9m0ci_7BoCcEoQAvD_BwE|₹45.00|$0.50|
+|Small Nd magnets|For magnetic modularity|1 (100pcs)|https://www.amazon.in/gp/product/B075PMRBWJ/ref=ox_sc_act_title_8?smid=AP7MBNLZTN3FQ&psc=1|₹275.00|$3.03|
+|Switch Array|For controlling input and processing data|8|https://robu.in/product/digital-sensor-ttp223b-module-capacitive-touch-switch/|₹120.00|$1.32|
+|Artificial Leather|For strapping and covering the watch|70cm^2|https://www.amazon.in/gp/product/B09DCP41JD/ref=ox_sc_act_title_5?smid=A2ZGAXPBI2YBYH&psc=1|₹200.00|$2.20|
+|TP4096 Charger module|For charging|1|https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-type-c/|₹25.00|$0.28|
+|Plexiglass|For mounting and containing the circuits|1|https://www.amazon.in/gp/product/B097JQLNRW/ref=ox_sc_act_title_1?smid=A1YQOYZBR78PZF&psc=1|₹299.00|$3.29|
+|Lithium Polymer Batteries|For power and space efficiency|2|https://www.amazon.in/gp/product/B0CYQ6H8FW/ref=ox_sc_act_title_3?smid=A2MVLA5NURHGBS&psc=1|₹302.00|$3.32|
+|Voltage Regulator|For providing stable voltage to Nano|1|https://robu.in/product/dc-dc-1-8v-5v-to-3-3v-boost-and-buck-power-module/?gad_source=1&gad_campaignid=17416544847&gbraid=0AAAAADvLFWcO_xeiUoTKrfT0WPjsJeLrH&gclid=CjwKCAiAu67KBhAkEiwAY0jAlV1EwRc7QIY71OZ8BFnK6DXi7Ab7a9E5U0J6SR_FGI4e0hnhRyVwrhoC6D0QAvD_BwE|₹51.00|$0.56|
+|Arduino Nano 33 BLE Rev 2|"Best due to its size| power and BLE support"|1|https://www.amazon.in/gp/product/B0FF9GGXWD/ref=ox_sc_act_title_7?smid=AJ6SIZC8YQDZX&psc=1|"₹2|119.00"|$23.31|
+|Total||||"₹3|436.00"|$37.80
+
