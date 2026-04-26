@@ -94,9 +94,16 @@ I really wanted to explore wearable electronics and low energy devices, plus I r
 - Upload the code to the arduino nano and enjoy the watch!
 - Data can be shared via bluetooth serial to a computer.
 - Additional decor can be done if desired.
+- Additional switches can also be added for more functionality by connecting it with the initially array into another unused Dx pin.
 
 <img width="638" height="460" alt="schema" src="https://github.com/user-attachments/assets/1a20328f-e82d-4d3a-91f2-00975d749b08" />
 
+
+
+
+> NOTE: Here the red wires all denote VCC and all unlabelled black wires denote GND
+
+---
 
 |Name|Description|Amount|Link|Cost|Cost $|
 |-|-|-|-|-|-|
