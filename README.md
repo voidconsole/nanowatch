@@ -77,6 +77,23 @@ In operation, the flow is simple:
 * BLE stays idle unless needed
 * Arduino enters low-power sleep whenever possible
 
+### The why
+I really wanted to explore wearable electronics and low energy devices, plus I recently broke my watch. So this serves both purposes, along with teaching me about Ardiuno nano, IMU control, bluetooth connectivity and power management.
+
+
+
+<img width="1904" height="950" alt="Screenshot" src="https://github.com/user-attachments/assets/e9a333d0-b87b-450b-a7bb-0c83238d5b30" />
+
+
+
+
+### The how
+- Wire the components according to the given schematics
+- Cut out the leather, plexiglass and fix the magnets on the leather band. 
+- Place the components according to the given model design, and support it with plexiglass around it.
+- Upload the code to the arduino nano and enjoy the watch!
+- Data can be shared via bluetooth serial to a computer.
+- Additional decor can be done if desired.
 
 <img width="638" height="460" alt="schema" src="https://github.com/user-attachments/assets/1a20328f-e82d-4d3a-91f2-00975d749b08" />
 
