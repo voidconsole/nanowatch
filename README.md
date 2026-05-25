@@ -43,7 +43,7 @@ No switch does anything on its own. Every press is just a signal; the Arduino in
 
 For wireless features, the Arduino’s built-in **Bluetooth Low Energy** handles pairing and communication. No external module is needed. BLE is used instead of classic Bluetooth because it consumes far less power and suits short, infrequent data transfers.
 
-Physically, everything is mounted on or between **plexiglass layers**, which act as:
+Physically, everything is mounted on or between **plexiglass layers**, fixed with an strong adhesive, which act as:
 
 * structural support
 * electrical isolation
@@ -88,7 +88,7 @@ I really wanted to explore wearable electronics and low energy devices, plus I r
 
 
 ### The how
-- Wire the components according to the given schematics
+- Wire the components according to the given schematics.
 - Cut out the leather, plexiglass and fix the magnets on the leather band. 
 - Place the components according to the given model design, and support it with plexiglass around it.
 - Upload the code to the arduino nano and enjoy the watch!
